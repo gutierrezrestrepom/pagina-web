@@ -1,0 +1,92 @@
+.contenedor{
+    width: 100%;
+    height: 1400px;
+background-color: rgb(255, 255, 255);
+}
+.encabezado{
+width: 100%;
+height: 150px;
+background-color: #517470;
+font-size: 45px;
+text-align: center;
+color: white;
+font-family: cursive;
+}
+.menu{
+width: 100%;
+height: 80px;
+background-color: #bdcfc9;
+display:flex;
+}
+.inicio{
+width: 80px;
+height: 75px;
+background-color: #8d9e6f;
+margin: 2px;
+font-size: 20px;
+}
+
+.sociales{
+width: 80px;
+height: 75px;
+background-color: #8d9e6f;
+margin: 2px;
+font-size: 20px;
+}
+.ingles{
+width: 80px;
+height: 75px;
+background-color: #8d9e6f;
+margin: 2px;
+font-size: 20px;
+}
+.biologia{
+width: 80px;
+height: 75px;
+background-color: #8d9e6f;
+margin: 2px;
+font-size: 20px;
+}
+.matematicas{
+width: 100px;
+height: 75px;
+background-color: #8d9e6f;
+margin: 2px;
+font-size: 20px;
+}
+
+.contenedor2{
+width: 100%;
+height: 1300px;
+background-color: rgb(106, 29, 179);
+
+display: flex;
+}
+.izquierda{
+width: 25%;
+height: 2600px;
+background-color: rgb(56, 21, 88);
+background-image: url("letras.jfif");
+background-image: url("descarga\ \(1\).jfif");
+}
+.centro{
+width: 55%;
+height: 2600px;
+background-color: rgb(98, 73, 121);
+font-size: 15px;
+background-color: #7E998D;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: left;
+}
+
+.derecha{
+width: 25%;
+height: 2600px;
+background-color: blueviolet;
+font-size: 35px;
+text-align: center;
+color: rgb(255, 255, 255);
+font-family: cursive;
+background-image: url("letras.jfif");
+background-image: url("descarga\ \(1\).jfif");
+}
