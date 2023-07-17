@@ -17,8 +17,21 @@
     
     }
     
+    .fondomatematicas{
     
+        background-image: url("books-g84259ff87_1280.jpg");
+        
+        background-repeat: no-repeat;
+        
+        }
     
+        .fondobiologia{
+    
+            background-image: url("descarga.jfif");
+            
+            background-repeat: no-repeat;
+            background-size: cover;
+            }
     .img{
     
     position: relative;
