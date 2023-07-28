@@ -31,7 +31,7 @@ background-size: cover;
 .fondosociales2{
 background-image: url("nocheestrellada.jpeg");
 background-repeat: no-repeat;
-background-size: cover;
+background-size: 8000;
 }
 
 .fondotecnologia2{
@@ -73,7 +73,7 @@ color: brown;
 height: 280px;
 width: 100%;
 position: absolute;
-top: 410px;
+top: 42px;
 }
         
          
@@ -85,7 +85,7 @@ top: 410px;
     border-radius: 10px;
     background-repeat: no-repeat;
     left: 180px;
-    background-image: url("");}
+    }
         
     .contenedor{
     background: image();
@@ -100,7 +100,7 @@ top: 410px;
     height: 280px;
     width: 100%;
     position: absolute;
-    top: 410px;}
+    top: 42px;}
     
     .imagentecnologia2{
     background-repeat: no-repeat;
@@ -109,7 +109,7 @@ top: 410px;
     width: 260px;
     margin-left: 5px;
     margin-right:5px;
-    background-image: url("carros.jpg");}
+    }
          
     .textotecnologia2{
     text-align: justify;
@@ -140,8 +140,8 @@ top: 410px;
         .contenido{
         height: 1400px;
         width: 100%;
-        position: absolute;
-        top: 410px;}
+        position: relative;
+        top: 42px;}
              
         .textoingles{
         text-align: justify;
@@ -171,12 +171,12 @@ top: 410px;
             .contenido{
             height: 280px;
             width: 100%;
-            position: absolute;
-            top: 410px;}
+            position: relative;
+            top: 42px;}
             
             .textomate{
-            text-align: center;
-            color: rgb(0, 5, 5);
+            text-align: left;
+            color: rgb(0, 0, 0);
             font-size: 20px;}
 
             .img{
@@ -200,10 +200,39 @@ top: 410px;
                 .contenido{
                 height: 280px;
                 width: 100%;
-                position: absolute;
-                top: 410px;}
+                position: relative;
+                top: 115px;}
                 
                 .textobiologia{
                 text-align: left;
                 color: rgb(0, 5, 5);
                 font-size: 30px;}
+
+                .img{
+                    position: relative;
+                    width: 190px;
+                    height: 280px;
+                    border-radius: 10px;
+                    background-repeat: no-repeat;
+                    left: 180px;
+                    background-image: url("estatua.jpeg");}
+                        
+                    .contenedor{
+                    background: image();
+                    height: 230px;}
+                        
+                    .texto{
+                    font-size: 80px;
+                    text-align: justify;
+                    color: brown;}
+                    
+                    .contenido{
+                    height: 280px;
+                    width: 100%;
+                    position: relative;
+                    top: 42px;}
+                    
+                    .textosociales2{
+                    text-align: left;
+                    color: rgb(0, 0, 0);
+                    font-size: 80px;}
