@@ -19,7 +19,7 @@ background-size: 2000px ;
 .fondobiologia2{
 background-image: url("oceano.jpeg");
 background-repeat: no-repeat;
-background-size: cover;
+background-size: 3000px;
 }
 
 .fondomatematicas2{
@@ -102,7 +102,7 @@ top: 410px;
     position: absolute;
     top: 410px;}
     
-    .imagentecno{
+    .imagentecnologia2{
     background-repeat: no-repeat;
     float:left;
     height: 200px;
@@ -111,9 +111,9 @@ top: 410px;
     margin-right:5px;
     background-image: url("carros.jpg");}
          
-    .textotecno{
+    .textotecnologia2{
     text-align: justify;
-    color: azure;
+    color: rgb(255, 255, 255);
     font-size: 20px;}
 
 
@@ -178,3 +178,32 @@ top: 410px;
             text-align: center;
             color: rgb(0, 5, 5);
             font-size: 20px;}
+
+            .img{
+                position: relative;
+                width: 190px;
+                height: 290px;
+                border-radius: 10px;
+                background-repeat: no-repeat;
+                left: 180px;
+                background-image: url("oceano.jpeg");}
+                    
+                .contenedor{
+                background: image();
+                height: 230px;}
+                    
+                .texto{
+                font-size: 40px;
+                text-align: justify;
+                color: brown;}
+                
+                .contenido{
+                height: 280px;
+                width: 100%;
+                position: absolute;
+                top: 410px;}
+                
+                .textobiologia{
+                text-align: left;
+                color: rgb(0, 5, 5);
+                font-size: 30px;}
