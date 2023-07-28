@@ -25,13 +25,13 @@ background-size: 3000px;
 .fondomatematicas2{
 background-image: url("muchachas.jpeg");
 background-repeat: no-repeat;
-background-size: cover;
+background-size: 1500px;
 }
         
 .fondosociales2{
 background-image: url("nocheestrellada.jpeg");
 background-repeat: no-repeat;
-background-size: 8000;
+background-size: cover;
 }
 
 .fondotecnologia2{
@@ -72,8 +72,8 @@ color: brown;
 .contenido{
 height: 280px;
 width: 100%;
-position: absolute;
-top: 42px;
+position: relative;
+top: 376pxx;
 }
         
          
@@ -85,7 +85,7 @@ top: 42px;
     border-radius: 10px;
     background-repeat: no-repeat;
     left: 180px;
-    }
+    background-image: url("");}
         
     .contenedor{
     background: image();
@@ -100,7 +100,7 @@ top: 42px;
     height: 280px;
     width: 100%;
     position: absolute;
-    top: 42px;}
+    top: 410px;}
     
     .imagentecnologia2{
     background-repeat: no-repeat;
@@ -109,7 +109,7 @@ top: 42px;
     width: 260px;
     margin-left: 5px;
     margin-right:5px;
-    }
+    background-image: url("carros.jpg");}
          
     .textotecnologia2{
     text-align: justify;
@@ -140,8 +140,8 @@ top: 42px;
         .contenido{
         height: 1400px;
         width: 100%;
-        position: relative;
-        top: 42px;}
+        position: absolute;
+        top: 410px;}
              
         .textoingles{
         text-align: justify;
@@ -157,7 +157,6 @@ top: 42px;
             border-radius: 10px;
             background-repeat: no-repeat;
             left: 180px;
-            background-image: url("estatua.jpeg");}
                 
             .contenedor{
             background: image();
@@ -172,11 +171,11 @@ top: 42px;
             height: 280px;
             width: 100%;
             position: relative;
-            top: 42px;}
+            top: 129px;}
             
-            .textomate{
+            .textomatematicas2{
             text-align: left;
-            color: rgb(0, 0, 0);
+            color: rgb(0, 5, 5);
             font-size: 20px;}
 
             .img{
@@ -200,8 +199,8 @@ top: 42px;
                 .contenido{
                 height: 280px;
                 width: 100%;
-                position: relative;
-                top: 115px;}
+                position: absolute;
+                top: 410px;}
                 
                 .textobiologia{
                 text-align: left;
@@ -211,28 +210,42 @@ top: 42px;
                 .img{
                     position: relative;
                     width: 190px;
-                    height: 280px;
+                    height: 190px;
                     border-radius: 10px;
                     background-repeat: no-repeat;
                     left: 180px;
-                    background-image: url("estatua.jpeg");}
+                    background-image: url("");}
                         
                     .contenedor{
                     background: image();
                     height: 230px;}
                         
                     .texto{
-                    font-size: 80px;
+                    font-size: 40px;
                     text-align: justify;
                     color: brown;}
                     
                     .contenido{
                     height: 280px;
                     width: 100%;
-                    position: relative;
-                    top: 42px;}
+                    position: absolute;
+                    top: 282px;}
                     
+                    .imagensociales2{
+                    background-repeat: no-repeat;
+                    float: left;
+                    height: 200px;
+                    width: 260px;
+                    margin-left: 5px;
+                    margin-right:5px;
+                    background-image: url("carros.jpg");}
+                         
                     .textosociales2{
-                    text-align: left;
-                    color: rgb(0, 0, 0);
-                    font-size: 80px;}
+                    text-align: justify;
+                    color: rgb(255, 255, 255);
+                    font-size: 20px;
+                }
+
+
+
+
