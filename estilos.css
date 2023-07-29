@@ -109,8 +109,17 @@ top: 376pxx;
     width: 260px;
     margin-left: 5px;
     margin-right:5px;
-    background-image: url("carros.jpg");}
+    background-image: url("conmutador.jpg");}
          
+    .imagenbasica{
+        background-repeat: no-repeat;
+        height: 200px;
+        width: 400px;
+        margin-right:100px;
+        background-image: url("electronicabasica.jfif");
+         }
+
+
     .textotecnologia2{
     text-align: justify;
     color: rgb(255, 255, 255);
@@ -229,7 +238,7 @@ top: 376pxx;
                     height: 280px;
                     width: 100%;
                     position: absolute;
-                    top: 282px;}
+                    top: 310px;}
                     
                     .imagensociales2{
                     background-repeat: no-repeat;
