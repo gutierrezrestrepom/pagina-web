@@ -167,9 +167,9 @@ top: 376pxx;
             background-repeat: no-repeat;
             left: 180px;
                 
-            .contenedor{
+            .contenedor
             background: image();
-            height: 230px;}
+            height: 230px;
                 
             .texto{
             font-size: 40px;
@@ -253,7 +253,26 @@ top: 376pxx;
                     text-align: justify;
                     color: rgb(255, 255, 255);
                     font-size: 20px;
-                }
+}
+
+
+.imagentecnologia3{
+    background-repeat: no-repeat;
+    float: left;
+    height: 200px;
+    width: 260px;
+    margin-left: 5px;
+    margin-right:5px;
+    background-image: url("beautiful-nature-g462e68833_1280.jpg.jpg");}
+         
+
+
+
+
+
+
+
+
 
 
 
