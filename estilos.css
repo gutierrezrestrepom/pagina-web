@@ -53,24 +53,23 @@ position: relative;
 width: 190px;
 height: 190px;
 border-radius: 10px;
-background-repeat: no-repeat;
 left: 180px;
 background-image: url("medellin.jpe");
 }
     
 .contenedor{
 background: image();
-height: 230px;
+height: 232px;
 }
     
 .texto{
 font-size: 40px;
 text-align: justify;
-color: brown;
+color: white;
 }
 
 .contenido{
-height: 280px;
+height: 260px;
 width: 100%;
 position: relative;
 top: 376pxx;
@@ -79,192 +78,224 @@ top: 376pxx;
          
 
 .img{
-    position: relative;
-    width: 190px;
-    height: 190px;
-    border-radius: 10px;
-    background-repeat: no-repeat;
-    left: 180px;
-    background-image: url("");}
+position: relative;
+width: 190px;
+height: 190px;
+border-radius: 10px;
+background-repeat: no-repeat;
+left: 180px;
+background-image: url("");}
         
-    .contenedor{
-    background: image();
-    height: 230px;}
+.contenedor{
+background: image();
+height: 230px;}
         
-    .texto{
-    font-size: 40px;
-    text-align: justify;
-    color: brown;}
+.texto{
+font-size: 40px;
+text-align: justify;
+}
     
-    .contenido{
-    height: 280px;
-    width: 100%;
-    position: absolute;
-    top: 410px;}
+.contenido{
+height: 280px;
+width: 100%;
+position: absolute;
+top: 410px;}
     
-    .imagentecnologia2{
-    background-repeat: no-repeat;
-    float:left;
-    height: 200px;
-    width: 260px;
-    margin-left: 5px;
-    margin-right:5px;
-    background-image: url("conmutador.jpg");}
+.imagentecnologia2{
+background-repeat: no-repeat;
+float:left;
+height: 200px;
+width: 260px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("conmutador.jpg");}
          
-    .imagenbasica{
-        background-repeat: no-repeat;
-        height: 200px;
-        width: 400px;
-        margin-right:100px;
-        background-image: url("electronicabasica.jfif");
-         }
-
-
-    .textotecnologia2{
-    text-align: justify;
-    color: rgb(255, 255, 255);
-    font-size: 20px;}
-
-
-
-
-    .img{
-        position: relative;
-        width: 190px;
-        height: 220px;
-        border-radius: 10px;
-        background-repeat: repeat;
-        left: 180px;
-        background-image: url("medellin.jpeg");}
-            
-        .contenedor{
-        background: image();
-        height: 1400px;}
-            
-        .texto{
-        font-size: 35px;
-        text-align: justify;
-        color: brown;}
-        
-        .contenido{
-        height: 1400px;
-        width: 100%;
-        position: absolute;
-        top: 410px;}
-             
-        .textoingles{
-        text-align: justify;
-        color: azure;
-        font-size: 20px;}    
-
-
-
-        .img{
-            position: relative;
-            width: 190px;
-            height: 280px;
-            border-radius: 10px;
-            background-repeat: no-repeat;
-            left: 180px;
-                
-            .contenedor
-            background: image();
-            height: 230px;
-                
-            .texto{
-            font-size: 40px;
-            text-align: justify;
-            color: brown;}
-            
-            .contenido{
-            height: 280px;
-            width: 100%;
-            position: relative;
-            top: 129px;}
-            
-            .textomatematicas2{
-            text-align: left;
-            color: rgb(0, 5, 5);
-            font-size: 20px;}
-
-            .img{
-                position: relative;
-                width: 190px;
-                height: 290px;
-                border-radius: 10px;
-                background-repeat: no-repeat;
-                left: 180px;
-                background-image: url("oceano.jpeg");}
-                    
-                .contenedor{
-                background: image();
-                height: 230px;}
-                    
-                .texto{
-                font-size: 40px;
-                text-align: justify;
-                color: brown;}
-                
-                .contenido{
-                height: 280px;
-                width: 100%;
-                position: absolute;
-                top: 410px;}
-                
-                .textobiologia{
-                text-align: left;
-                color: rgb(0, 5, 5);
-                font-size: 30px;}
-
-                .img{
-                    position: relative;
-                    width: 190px;
-                    height: 190px;
-                    border-radius: 10px;
-                    background-repeat: no-repeat;
-                    left: 180px;
-                    background-image: url("");}
-                        
-                    .contenedor{
-                    background: image();
-                    height: 230px;}
-                        
-                    .texto{
-                    font-size: 40px;
-                    text-align: justify;
-                    color: brown;}
-                    
-                    .contenido{
-                    height: 280px;
-                    width: 100%;
-                    position: absolute;
-                    top: 310px;}
-                    
-                    .imagensociales2{
-                    background-repeat: no-repeat;
-                    float: left;
-                    height: 200px;
-                    width: 260px;
-                    margin-left: 5px;
-                    margin-right:5px;
-                    background-image: url("carros.jpg");}
-                         
-                    .textosociales2{
-                    text-align: justify;
-                    color: rgb(255, 255, 255);
-                    font-size: 20px;
+.imagenbasica{
+background-repeat: no-repeat;
+height: 200px;
+width: 400px;
+margin-right:100px;
+background-image: url("electronicabasica.jfif");
 }
 
 
-.imagentecnologia3{
-    background-repeat: no-repeat;
-    float: left;
-    height: 200px;
-    width: 260px;
-    margin-left: 5px;
-    margin-right:5px;
-    background-image: url("beautiful-nature-g462e68833_1280.jpg.jpg");}
-         
+.textotecnologia2{
+text-align: justify;
+color: rgb(255, 255, 255);
+font-size: 20px;}
+
+
+
+.img{
+position: relative;
+width: 190px;
+height: 220px;
+border-radius: 10px;
+background-repeat: repeat;
+left: 180px;
+background-image: url("medellin.jpeg");}
+            
+.contenedor{
+background: image();
+height: 1400px;}
+            
+.texto{
+font-size: 22px;
+text-align: justify;
+color: white;}
+        
+
+
+.contenido{
+height: 1400px;
+width: 100%;
+position: absolute;
+top: 410px;}
+             
+.textoingles{
+text-align: justify;
+color: azure;
+font-size: 10px;}    
+
+
+
+.img{
+position: relative;
+width: 190px;
+height: 280px;
+border-radius: 10px;
+background-repeat: no-repeat;
+left: 180px;
+                
+.contenedor{
+background: image();
+height: 230px;}
+                
+.texto{
+font-size: 40px;
+text-align: justify;
+color: white;}
+            
+.contenido{
+height: 280px;
+width: 100%;
+position: relative;
+top: 129px;}
+            
+.textomatematicas2{
+text-align: left;
+color: rgb(0, 5, 5);
+font-size: 20px;}
+
+.img{
+position: relative;
+width: 190px;
+height: 290px;
+border-radius: 10px;
+background-repeat: no-repeat;
+left: 180px;
+background-image: url("oceano.jpeg");}
+                    
+.contenedor{
+background: image();
+height: 230px;}
+                    
+.texto{
+font-size: 40px;
+text-align: justify;
+color: white;}
+                
+.contenido{
+height: 280px;
+width: 100%;
+position: absolute;
+top: 410px;}
+                
+.textobiologia{
+text-align: left;
+color: rgb(0, 5, 5);
+font-size: 30px;}
+
+.img{
+position: relative;
+width: 190px;
+height: 190px;
+border-radius: 10px;
+background-repeat: no-repeat;
+left: 180px;
+background-image: url("");}
+                        
+.contenedor{
+background: image();
+height: 230px;}
+                        
+.texto{
+font-size: 40px;
+text-align: justify;
+color: white;}
+                    
+.contenido{
+height: 280px;
+width: 100%;
+position: absolute;
+top: 310px;}
+                    
+.imagensociales2{
+background-repeat: no-repeat;
+float: left;
+height: 200px;
+width: 260px;
+margin-left: 5px;
+margin-right:5px;
+background-image: url("carros.jpg");}
+                         
+.textosociales2{
+text-align: justify;
+color: rgb(255, 255, 255);
+font-size: 20px;
+}
+} 
+
+
+
+.fondosociales3{
+background-image: url("fotolluvia.jpg");
+background-repeat: repeat;
+background-size: 2000px ;
+}
+
+
+.fondoingles3{
+background-image: url("fotolluvia.jpg");
+background-repeat: repeat;
+background-size: 2000px ;
+}
+
+
+.fondomatematicas3{
+background-image: url("fotolluvia.jpg");
+background-repeat: repeat;
+background-size: 2000px ;
+}
+
+.fondoreligion3{
+background-image: url("fotolluvia.jpg");
+background-repeat:repeat;
+background-size: 2000px ;
+}
+
+
+.fondotecnologia3{
+background-image: url("fotolluvia.jpg");
+background-repeat: repeat;
+background-size: 2000px ;
+}
+
+.fondobiologia3{
+background-image: url("fotolluvia.jpg");
+background-repeat: no-repeat;
+background-size: 2000px ;
+}
 
 
 
@@ -274,6 +305,62 @@ top: 376pxx;
 
 
 
+    .imagenmatematicas{
+        background-repeat: no-repeat;
+        float: left;
+        height: 400px;
+        width: 400px;
+        margin-left: 20px;
+        margin-right:5px;
+        background-image: url("Factorizacion\ suma\ y\ diferencia.jpg");}
 
 
+        .imagenmatematicas1{
+            background-repeat: no-repeat;
+            float: left;
+            height: 400px;
+            width: 400px;
+            margin-left: 40px;
+            margin-right:5px;
+            background-image: url("impares.jpg");}
 
+            .imagenmatematicas2{
+                background-repeat: no-repeat;
+                float: left;
+                height: 400px;
+                width: 400px;
+                margin-left: 10px;
+                margin-right:5px;
+                background-image: url("iguales.jpg");}
+
+
+                .imagenmatematicas3{
+                    background-repeat: no-repeat;
+                    float: left;
+                    height: 400px;
+                    width: 400px;
+                    margin-left: 10px;
+                    margin-right:5px;
+                    background-image: url("trinomio.png");}
+
+                    .imagenmatematicas4{
+                        background-repeat: no-repeat;
+                        float: left;
+                        height: 400px;
+                        width: 400px;
+                        margin-left: 1px;
+                        margin-right: 10px;
+                        background-image: url("perfecto.jpg");}
+
+                        .imagenmatematicas5{
+                            background-repeat: no-repeat;
+                            float: left;
+                            height: 400px;
+                            width: 400px;
+                            margin-left: 5px;
+                            margin-right: 10px;
+                            background-image: url("cuadrado.png");}
+    
+                            
+    
+              
