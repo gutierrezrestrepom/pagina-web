@@ -293,7 +293,7 @@ background-size: 2000px ;
 
 .fondobiologia3{
 background-image: url("fotolluvia.jpg");
-background-repeat: no-repeat;
+background-repeat: repeat;
 background-size: 2000px ;
 }
 
@@ -361,6 +361,99 @@ background-size: 2000px ;
                             margin-right: 10px;
                             background-image: url("cuadrado.png");}
     
+                            .imagensociales1{
+                                background-repeat: no-repeat;
+                                float: left;
+                                height: 400px;
+                                width: 400px;
+                                margin-left: 5px;
+                                margin-right: 10px;
+                                background-image: url("Infografia.jpg");}
+
+
+
+
+                                    .imageningles2{
+                                        background-repeat: no-repeat;
+                                        float: left;
+                                        height: 400px;
+                                        width: 400px;
+                                        margin-left: 5px;
+                                        margin-right: 10px;
+                                        background-image: url("israel.jpg");}
+    
+                                        .imageningles3{
+                                            background-repeat: no-repeat;
+                                            float: left;
+                                            height: 400px;
+                                            width: 400px;
+                                            margin-left: 5px;
+                                            margin-right: 10px;
+                                            background-image: url("tolerancia.jfif");}
+    
+
+                                            .imageningles4{
+                                                background-repeat: no-repeat;
+                                                float: left;
+                                                height: 400px;
+                                                width: 400px;
+                                                margin-left: 5px;
+                                                margin-right: 10px;
+                                                background-image: url("regla\ 2.png");}
+        
                             
     
-              
+                                                .imageningles5{
+                                                    background-repeat: no-repeat;
+                                                    float: left;
+                                                    height: 400px;
+                                                    width: 400px;
+                                                    margin-left: 5px;
+                                                    margin-right: 10px;
+                                                    background-image: url("regla\ 3.jfif");}
+
+                                                    .imageningles6{
+                                                        background-repeat: no-repeat;
+                                                        float: left;
+                                                        height: 400px;
+                                                        width: 400px;
+                                                        margin-left: 5px;
+                                                        margin-right: 10px;
+                                                        background-image: url("regla\ 4.jfif");}
+
+                                                        .imageningles7{
+                                                            background-repeat: no-repeat;
+                                                            float: left;
+                                                            height: 400px;
+                                                            width: 400px;
+                                                            margin-left: 5px;
+                                                            margin-right: 10px;
+                                                            background-image: url("regla\ 5.jfif");}
+
+                                                            .imageningles8{
+                                                                background-repeat: no-repeat;
+                                                                float: left;
+                                                                height: 400px;
+                                                                width: 400px;
+                                                                margin-left: 5px;
+                                                                margin-right: 10px;
+                                                                background-image: url("regla\ 6.jfif");}
+
+                                                                .imageningles9{
+                                                                    background-repeat: no-repeat;
+                                                                    float: left;
+                                                                    height: 400px;
+                                                                    width: 400px;
+                                                                    margin-left: 5px;
+                                                                    margin-right: 10px;
+                                                                    background-image: url("regla\ 7.jfif");} 
+
+                                                                    .imageningles10{
+                                                                        background-repeat: no-repeat;
+                                                                        float: left;
+                                                                        height: 400px;
+                                                                        width: 400px;
+                                                                        margin-left: 5px;
+                                                                        margin-right: 10px;
+                                                                        background-image: url("regla\ 8.jfif");}
+
