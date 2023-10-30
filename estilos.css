@@ -446,14 +446,53 @@ background-size: 2000px ;
                                                                     width: 400px;
                                                                     margin-left: 5px;
                                                                     margin-right: 10px;
-                                                                    background-image: url("regla\ 7.jfif");} 
+background-image: url("regla\ 7.jfif");} 
 
-                                                                    .imageningles10{
-                                                                        background-repeat: no-repeat;
-                                                                        float: left;
-                                                                        height: 400px;
-                                                                        width: 400px;
-                                                                        margin-left: 5px;
-                                                                        margin-right: 10px;
-                                                                        background-image: url("regla\ 8.jfif");}
+.imageningles10{
+background-repeat: no-repeat;
+float: left;
+height: 400px;
+width: 400px;
+margin-left: 5px;
+margin-right: 10px;
+background-image: url("regla\ 8.jfif");}
+
+.imagensociales1{
+    background-repeat: no-repeat;
+    float: left;
+    height: 400px;
+    width: 400px;
+    margin-left: 5px;
+    margin-right: 10px;
+    background-image: url("Infografia.jpg");}
+
+  
+
+    .imagensociales2{
+        background-repeat: no-repeat;
+        float: left;
+        height: 400px;
+        width: 400px;
+        margin-left: 5px;
+        margin-right: 10px;
+        background-image: url("Infografia\ 1.jpg");}
+    
+        .imagensociales3{
+            background-repeat: no-repeat;
+            float: left;
+            height: 400px;
+            width: 400px;
+            margin-left: 5px;
+            margin-right: 10px;
+            background-image: url("Infografia\ 2.jpg");}
+
+
+           
+        
+            
+            
+      
+    
+    
+
 
